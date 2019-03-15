@@ -1,0 +1,28 @@
+{
+  "name": "learning-tdd",
+  "version": "1.0.0",
+  "description": "Learning TDD with kentcdoods's course.",
+  "main": "-",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobRuizR/learning-tdd.git"
+  },
+  "keywords": [
+    "jest",
+    "testing",
+    "kentcdoods",
+    "learning"
+  ],
+  "author": "robruizr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobRuizR/learning-tdd/issues"
+  },
+  "homepage": "https://github.com/RobRuizR/learning-tdd#readme"
+}
